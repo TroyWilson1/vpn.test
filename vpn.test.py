@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-#Date: 1.23.18
-#Motified 12.29.20 - To python3 and urllib3
+#
+#
 
 import urllib3
 import re
